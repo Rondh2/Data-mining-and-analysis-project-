@@ -8,7 +8,7 @@ This repository contains Jupyter Notebooks and a web application for web scrapin
 
 - `entrypoint.ipynb`: Performs web scraping, initial data extraction, and cleaning.
 - `PART 2.ipynb`: Further data analysis, feature engineering, and model training using machine learning techniques.
-- `Part 3 - final/`: Contains a website where users can input car details to predict the most suitable price based on the entered data.
+- `Part 3 - final`: Contains a website where users can input car details to predict the most suitable price based on the entered data.
 
 ## Technologies Used
 
